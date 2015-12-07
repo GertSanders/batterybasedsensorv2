@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"6";"100nF";"C-EU025-025X050";"C025-025X050";"C1, C2, C3, C4, C8, C9";"CAPACITOR, European symbol";"";"";"";"";
+"1";"10K";"R-EU_0207/2V";"0207/2V";"R1";"RESISTOR, European symbol";"";"";"";"";
+"1";"10uF";"CPOL-USE2.5-5";"E2,5-5";"C7";"POLARIZED CAPACITOR, American symbol";"";"";"";"";
+"2";"18pF";"C-EUC025_050-024X070";"C025_050-024X070";"C5, C6";"CAPACITOR, European symbol";"";"";"";"";
+"1";"330";"R-EU_0207/2V";"0207/2V";"R2";"RESISTOR, European symbol";"";"";"";"";
+"1";"3mm Blue";"LED3MM";"LED3MM";"LED";"LED";"";"";"";"";
+"1";"8/16MHz";"CRYSTALHC49S";"HC49/S";"Q1";"CRYSTAL";"";"";"1667008";"unknown";
+"2";"AAABATTERY";"AAABATTERY";"AAABATTERYHOLDER";"BAT1, BAT2";"";"";"";"";"";
+"1";"ATMEGA328P_PDIP";"ATMEGA328P_PDIP";"DIL28-3";"U1";"uC used in the Arduino";"";"";"";"";
+"1";"JST PH 2mm Right Angle";"JST_2PINJST-PH-2-THM-RA";"JST-PH-2-THM-RA";"JST";"JST 2-Pin Connectors of various flavors";"";"";"";"";
+"1";"PINHEAD-1X2";"PINHEAD-1X2";"PIHEAD-1X2";"J1";"";"";"";"";"";
+"1";"WIRELESS-NRF24L01";"WIRELESS-NRF24L01";"WIRELESS-NRF24L01";"NR1";"2.4 GHz Wireless Module based on NRF24L01 chip";"";"";"";"";
+"1";"WIRELESS-NRF24L01-PA-EXT";"WIRELESS-NRF24L01-PA-EXT";"WIRELESS-NRD24L01-PA-EXT";"NR2";"2.4 GHz Wireless Module based on NRF24L01 chip with preamplifier and external antenna";"";"";"";"";
+"2";"female header";"FE06-2";"FE06-2";"BH1, BH2";"FEMALE HEADER";"";"";"unknown";"unknown";
+"1";"male header";"PINHD-2X12";"2X12";"TH1";"PIN HEADER";"";"";"";"";
+"1";"solder jumper normally open";"SJ";"SJ";"J2";"SMD solder JUMPER";"";"";"";"";
